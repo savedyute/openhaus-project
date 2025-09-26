@@ -34,9 +34,6 @@ This section details the configuration of the OpenHaus network components, cover
 - **DNS**: 192.168.1.1
 - **Device**: MacBook via USB-C Ethernet adapter
 - **Notes**: Configured via MacBook Network settings.
-- **Screenshots**:
-  
-  - ![USB-C Ethernet Config](/docs/images/config/OpenHaus USB-C to Ethernet/usbc_ethernet_config.png) (Network Settings Panel)
 
 ---
 
