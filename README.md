@@ -67,11 +67,9 @@ openHaus-project/
 Docs live in the [`/docs`](docs/) directory:
 
 - [Project Overview](docs/project_overview.md)  
-  - Details the vision, objectives, and core components of OpenHaus.
 - [Setup Notes](docs/setup_notes.md)  
 - [Network Architecture](docs/network_architecture.md)  
   - [Diagram](/docs/images/network_architecture.png)  
-  - Outlines the network flow and components.
 - [Progress Logs](docs/progress_logs/)  
   - [Day 1: Planning & Setup](docs/progress_logs/day1_planning.md)  
   - [Day 2: Hardware & VM Setup](docs/progress_logs/day2_setup.md)  
