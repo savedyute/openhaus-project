@@ -19,8 +19,11 @@ This section details the configuration of the OpenHaus network components, cover
 - **Notes**: Relies on pfSense for DHCP and routing; OpenWrt firmware on TP-Link AP for enhanced captive portal support.
 - **Screenshots**:
   - ![OpenWrt Config 01](/docs/images/config/OpenWrt/openwrt_config_01.png) (Dashboard)
+
   - ![OpenWrt Config 02](/docs/images/config/OpenWrt/openwrt_config_02.png) (Dashboard Cont.)
+
   - ![OpenWrt Config 03](/docs/images/config/OpenWrt/openwrt_config_03.png) (Wireless Settings)
+
   - ![OpenWrt Config 04](/docs/images/config/OpenWrt/openwrt_config_04.png) (LAN Settings)
 
 ---
@@ -56,11 +59,17 @@ This section details the configuration of the OpenHaus network components, cover
 - **Notes**: WebConfigurator accessed via https://192.168.1.1
 - **Screenshots**:
   - ![pfSense VM Config 01](/docs/images/config/pfSense/VM/pfsense_vm_config_01.png) (VM Settings)
+
   - ![pfSense VM Config 02](/docs/images/config/pfSense/VM/pfsense_vm_config_02.png) (DHCP & LAN Configuration)
+
   - ![pfSense VM Config 03](/docs/images/config/pfSense/VM/pfsense_vm_config_03.png) (DHCP & LAN Configuration Cont.)
+
   - ![pfSense WebConfigurator Config 01](/docs/images/config/pfSense/WebConfigurator/pfsense_webconfigurator_config_01.png) (Dashboard)
+
   - ![pfSense WebConfigurator Config 02](/docs/images/config/pfSense/WebConfigurator/pfsense_webconfigurator_config_02.png) (General Setup)
+
   - ![pfSense WebConfigurator Config 03](/docs/images/config/pfSense/WebConfigurator/pfsense_webconfigurator_config_03.png) (LAN Interface)
+
   - ![pfSense WebConfigurator Config 04](/docs/images/config/pfSense/WebConfigurator/pfsense_webconfigurator_config_04.png) (WAN Interface)
 
 ---
@@ -86,8 +95,13 @@ This section details the configuration of the OpenHaus network components, cover
             via: 192.168.1.1
     version: 2
 - **Screenshots**:
-  - ![Ubuntu Network Config 01](/docs/images/config/Ubuntu/ubuntu_network_config_01.png) (Netplan File Edit)
+  - ![Ubuntu Network Config 01](Netplan File Edit)(/docs/images/config/Ubuntu/ubuntu_network_config_01.png) 
+
   - ![Ubuntu Network Config 02](/docs/images/config/Ubuntu/ubuntu_network_config_02.png) (Network Status Check)
+
   - ![Ubuntu Network Config 03](/docs/images/config/Ubuntu/ubuntu_network_config_03.png) (IP Address Confirmation)
+
   - ![Ubuntu Ping Success](/docs/images/config/Ubuntu/ubuntu_ping_success.png) (Ping Test to 8.8.8.8)
+
   - ![Ubuntu SSH Login Success](/docs/images/config/Ubuntu/ubuntu_ssh_login_success.png) (SSH Session from Mac Terminal)
+
