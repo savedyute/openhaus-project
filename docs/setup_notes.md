@@ -20,6 +20,7 @@ This section details the configuration of the OpenHaus network components, cover
 - **Screenshots**:
   
   - ![OpenWrt Config 01](/docs/images/config/OpenWrt/openwrt_config_01.png) (Dashboard)
+    
   - ![OpenWrt Config 02](/docs/images/config/OpenWrt/openwrt_config_02.png) (Dashboard Cont.)
   - ![OpenWrt Config 03](/docs/images/config/OpenWrt/openwrt_config_03.png) (Wireless Settings)
   - ![OpenWrt Config 04](/docs/images/config/OpenWrt/openwrt_config_04.png) (LAN Settings)
