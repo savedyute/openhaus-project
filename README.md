@@ -80,7 +80,7 @@ Docs live in the [`/docs`](docs/) directory:
 ---
 
 ## 🧭 Roadmap
-- [x] Configure base network (pfSense)  
+- [x] Configure base network (pfSense and Ubuntu)  
 - [ ] Install and configure CoovaChilli and FreeRADIUS  
 - [ ] Deploy custom captive portal  
 - [ ] Launch website (campus + vendor portal)  
