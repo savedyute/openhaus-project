@@ -18,7 +18,6 @@ This section details the configuration of the OpenHaus network components, cover
   - Security: WPA2-PSK/WPA3-SAE, 802.11w Optional
 - **Notes**: Relies on pfSense for DHCP and routing; OpenWrt firmware on TP-Link AP for enhanced captive portal support.
 - **Screenshots**:
-
   
   - ![OpenWrt Config 01](/docs/images/config/OpenWrt/openwrt_config_01.png) (Dashboard)
   - ![OpenWrt Config 02](/docs/images/config/OpenWrt/openwrt_config_02.png) (Dashboard Cont.)
@@ -36,6 +35,7 @@ This section details the configuration of the OpenHaus network components, cover
 - **Device**: MacBook via USB-C Ethernet adapter
 - **Notes**: Configured via MacBook Network settings.
 - **Screenshots**:
+  
   - ![USB-C Ethernet Config]('/docs/images/config/OpenHaus USB-C to Ethernet/usbc_ethernet_config.png') (Network Settings Panel)
 
 ---
@@ -57,6 +57,7 @@ This section details the configuration of the OpenHaus network components, cover
   - DNS Override by DHCP/PPP: Disabled
 - **Notes**: WebConfigurator accessed via https://192.168.1.1
 - **Screenshots**:
+  
   - ![pfSense VM Config 01](/docs/images/config/pfSense/VM/pfsense_vm_config_01.png) (VM Settings)
   - ![pfSense VM Config 02](/docs/images/config/pfSense/VM/pfsense_vm_config_02.png) (DHCP & LAN Configuration)
   - ![pfSense VM Config 03](/docs/images/config/pfSense/VM/pfsense_vm_config_03.png) (DHCP & LAN Configuration Cont.)
@@ -88,6 +89,7 @@ This section details the configuration of the OpenHaus network components, cover
             via: 192.168.1.1
     version: 2
 - **Screenshots**:
+  
   - ![Ubuntu Network Config 01](/docs/images/config/Ubuntu/ubuntu_network_config_01.png) (Netplan File Edit)
   - ![Ubuntu Network Config 02](/docs/images/config/Ubuntu/ubuntu_network_config_02.png) (Network Status Check)
   - ![Ubuntu Network Config 03](/docs/images/config/Ubuntu/ubuntu_network_config_03.png) (IP Address Confirmation)
