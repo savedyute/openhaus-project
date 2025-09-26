@@ -95,7 +95,7 @@ This section details the configuration of the OpenHaus network components, cover
             via: 192.168.1.1
     version: 2
 - **Screenshots**:
-  - ![Ubuntu Network Config 01](Netplan File Edit)(/docs/images/config/Ubuntu/ubuntu_network_config_01.png) 
+  - ![Ubuntu Network Config 01] (Netplan File Edit) (/docs/images/config/Ubuntu/ubuntu_network_config_01.png) 
 
   - ![Ubuntu Network Config 02](/docs/images/config/Ubuntu/ubuntu_network_config_02.png) (Network Status Check)
 
