@@ -18,9 +18,9 @@ This section details the configuration of the OpenHaus network components, cover
   - Security: WPA2-PSK/WPA3-SAE, 802.11w Optional
 - **Notes**: Relies on pfSense for DHCP and routing; OpenWrt firmware on TP-Link AP for enhanced captive portal support.
 - **Screenshots**:
+
   
   - ![OpenWrt Config 01](/docs/images/config/OpenWrt/openwrt_config_01.png) (Dashboard)
-    
   - ![OpenWrt Config 02](/docs/images/config/OpenWrt/openwrt_config_02.png) (Dashboard Cont.)
   - ![OpenWrt Config 03](/docs/images/config/OpenWrt/openwrt_config_03.png) (Wireless Settings)
   - ![OpenWrt Config 04](/docs/images/config/OpenWrt/openwrt_config_04.png) (LAN Settings)
